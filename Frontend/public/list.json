@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "John Wick",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 0,
+        "category": "Free",
+        "genre": "Action",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/k0jvy4w0/poster/p/w/z/medium-john-wick-poster-for-room-office-13-inch-x-19-inch-rolled-original-imafkbqxrurv5c2g.jpeg?q=90&crop=false"
+    },
+    {
+        "id": 2,
+        "name": "Spider Man",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 0,
+        "category": "Free",
+        "genre": "Action",
+        "image": "https://m.media-amazon.com/images/I/61etmpQOO-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Free Guy",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 0,
+        "category": "Free",
+        "genre": "Action",
+        "image": "https://wallpapercave.com/wp/wp9665306.jpg"
+    },
+    {
+        "id": 4,
+        "name": "The Batman",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 1000,
+        "category": "Not Free",
+        "genre": "Action",
+        "image": "https://i.redd.it/nvrvud7j10e81.jpg"
+    },
+    {
+        "id": 5,
+        "name": "The Dark Knight",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 500,
+        "category": "Not Free",
+        "genre": "Action",
+        "image": "https://i.etsystatic.com/23402008/r/il/024c7e/5568112558/il_fullxfull.5568112558_suid.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mission Impossible",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 500,
+        "category": "Not Free",
+        "genre": "Action",
+        "image": "https://i.redd.it/ua5fx28d3e0b1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "The Fall Guy",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 700,
+        "category": "Not Free",
+        "genre": "Action",
+        "image": "https://preview.redd.it/new-poster-for-the-fall-guy-v0-6dc8pfhig5nc1.jpeg?auto=webp&s=e7e5204b80b92ff712761b07509e64bf07f9d8a2"
+    },
+    {
+        "id": 8,
+        "name": "Conjuring",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 0,
+        "category": "Free",
+        "genre": "Horror",
+        "image": "https://m.media-amazon.com/images/I/81dzWlccrGS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Titanic",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 0,
+        "category": "Free",
+        "genre": "Action",
+        "image": "https://m.media-amazon.com/images/I/71uoicxpqoS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Interstellar",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 0,
+        "category": "Free",
+        "genre": "Action",
+        "image": "https://m.media-amazon.com/images/I/814E2+pjjzL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Kalki 2898 AD",
+        "title": "Lorem Ipsum and others are true and accurate in all",
+        "price": 3000,
+        "category": "Not Free",
+        "genre": "Action",
+        "image": "https://preview.redd.it/kalki-2898-a-d-offical-poster-v0-qd7gl7vni0xc1.jpeg?auto=webp&s=e0e35ae2558735d624aacedf0534da0bdfd23731"
+    }
+]
